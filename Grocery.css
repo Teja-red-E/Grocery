@@ -90,8 +90,6 @@ li button:hover {
     background-color: peru;
 }
 
-/* Rest of the CSS remains unchanged */
-
 form {
     display: flex;
     justify-content: space-between;
